@@ -12,7 +12,7 @@ The Crowdsale contract is inspired by the open-zeppelin `Crowdsale` contract wit
 
 
 ### Presale
-10,000,000 tokens will be issued at the price of 0.05 ether per token. This represents a 300% discount to the StabiX ICO which will start from September 15.
+10,000,000 tokens will be issued at the price of 0.01 ether per token. This represents a 300% discount to the StabiX ICO which will start from September 15.
 
 ### Development and Testing Environment Setup
 
