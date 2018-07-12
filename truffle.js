@@ -12,7 +12,6 @@ module.exports = {
     },
     ropsten: {
       provider: new HDWalletProvider(secure.mnemonic, "https://ropsten.infura.io/"+secure.infura_key),
-      from: "0x8EaEB1AFE479B0C8a00dec48ccDDDEE9CdeBd014" ,
       network_id: 3
     },
     testnet: {
